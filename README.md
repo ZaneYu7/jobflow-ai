@@ -10,7 +10,9 @@ The project will be developed incrementally. The initial focus is on establishin
 
 ## Current Status
 
-**Milestone 0 — Project initialization and development environment setup**
+**Milestone 0 — Completed**
+
+**Current milestone: Milestone 1 — Authentication planning**
 
 The repository currently contains the initial frontend and backend application skeletons.
 
@@ -195,7 +197,7 @@ Architecture decisions are documented in:
 
 ## Development Roadmap
 
-The project is currently focused on completing Milestone 0.
+The project is currently focused on planning and implementing Milestone 1 authentication.
 
 Future milestones will introduce application features and supporting infrastructure incrementally rather than adding the entire planned technology stack at once.
 

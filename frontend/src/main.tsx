@@ -8,7 +8,7 @@ if (rootElement === null) {
   throw new Error("Root element with id 'root' was not found")
 }
 
-createRoot(document.getElementById('root')!).render(
+createRoot(rootElement).render(
   <StrictMode>
     <App />
   </StrictMode>,
